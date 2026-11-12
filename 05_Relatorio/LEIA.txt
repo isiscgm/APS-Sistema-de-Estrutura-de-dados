@@ -1,1 +1,0 @@
-Relatorio anterior separado. Atualize a analise e as tabelas somente apos rodar o novo benchmark de 15 pontos.
