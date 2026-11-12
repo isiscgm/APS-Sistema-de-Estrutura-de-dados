@@ -1,1 +1,0 @@
-VERSAO DE REVISAO PARA O PROFESSOR. Veja 01_Codigos/INSTRUCOES.txt. Os graficos antigos sao historicos, nao resultados desta versao. E necessario executar o benchmark no seu computador para produzir os graficos revisados.
