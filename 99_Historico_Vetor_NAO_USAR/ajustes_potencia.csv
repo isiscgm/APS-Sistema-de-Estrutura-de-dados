@@ -1,0 +1,13 @@
+estrutura,operacao,coeficiente_a,expoente_b,R2_log,metodo
+Lista,Insercao,0.25852381,2.30059895,0.99352828,Ajuste linear em log-log; R² no espaço log
+Lista,Remocao,,,,Dados nao positivos
+Lista,Listagem,,,,Dados nao positivos
+Lista,custo_ponderado,0.17149778,2.31013934,0.99393323,Ajuste linear em log-log; R² no espaço log
+AVL,Insercao,,,,Dados nao positivos
+AVL,Remocao,,,,Dados nao positivos
+AVL,Listagem,,,,Dados nao positivos
+AVL,custo_ponderado,,,,Dados nao positivos
+Vetor,Insercao,,,,Dados nao positivos
+Vetor,Remocao,3.51058477,1.89721338,0.99282730,Ajuste linear em log-log; R² no espaço log
+Vetor,Listagem,,,,Dados nao positivos
+Vetor,custo_ponderado,0.54586855,1.89598168,0.99263626,Ajuste linear em log-log; R² no espaço log
